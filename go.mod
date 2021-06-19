@@ -1,3 +1,3 @@
-module github.com/lelepado01/ecs
+module ecs
 
 go 1.16
